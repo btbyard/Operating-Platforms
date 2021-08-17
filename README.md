@@ -1,5 +1,5 @@
-# CS230-Portfolio
-Portfolio and final project for SNHU Operating Platforms course
+# Operating Platforms
+Portfolio and final project different Operating Platforms course
 
 This project was for client "The Gaming Room." Introduced to different approaches they can use as they expand their game onto various operating systems. Explained the integration of the client’s game in a distributed environment and how to apply the client’s needs to the architectures of the different operating platforms available.
 
